@@ -5,7 +5,7 @@ const id_chatruoli = "";
 const comandoruoli = "";
 //                   ⬆️ Command roles < prefix + name > < -role >
 const listaruoli = ""
-//                 ⬆️ list roles < italian, englesh >
+//                 ⬆️ list roles < italian, english >
 
 const id_ruolonamerole = "";
 //                       ⬆️ id role
