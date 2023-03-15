@@ -6,6 +6,5 @@ this command gives roles to users
 the command is
 
  -role < name roles >
- 
- Discord = https://discord.gg/Gq68qBM9XD
+
  
